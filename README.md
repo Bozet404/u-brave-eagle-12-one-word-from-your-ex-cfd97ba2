@@ -1,31 +1,17 @@
-# One Word From Your Ex
+# u-brave-eagle-12-one-word-from-your-ex-cfd97ba2
 
-Entry for the make.fun bounty
-[u-brave-eagle-12-one-word-from-your-ex-cfd97ba2](https://make.fun/bounty/u-brave-eagle-12-one-word-from-your-ex-cfd97ba2)
-($2, one winner takes all, ends 28 Nov 2026 19:00 WIB).
+[![make.fun · u-brave-eagle-12-one-word-from-your-ex-cfd97ba2](https://make.fun/badge/u-brave-eagle-12-one-word-from-your-ex-cfd97ba2.svg)](https://make.fun/bounty/u-brave-eagle-12-one-word-from-your-ex-cfd97ba2?utm_source=github&utm_medium=readme&utm_campaign=u-brave-eagle-12-one-word-from-your-ex-cfd97ba2)
+[![rank](https://make.fun/badge/u-brave-eagle-12-one-word-from-your-ex-cfd97ba2/Bozet404/u-brave-eagle-12-one-word-from-your-ex-cfd97ba2/rank.svg)](https://make.fun/bounty/u-brave-eagle-12-one-word-from-your-ex-cfd97ba2/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-brave-eagle-12-one-word-from-your-ex-cfd97ba2)
+[![reward](https://make.fun/badge/u-brave-eagle-12-one-word-from-your-ex-cfd97ba2/Bozet404/u-brave-eagle-12-one-word-from-your-ex-cfd97ba2/reward.svg)](https://make.fun/bounty/u-brave-eagle-12-one-word-from-your-ex-cfd97ba2?utm_source=github&utm_medium=readme&utm_campaign=u-brave-eagle-12-one-word-from-your-ex-cfd97ba2)
 
-## The word
+My entry is a single word: "unavailable". It is the one word my ex would use to describe me — honest, a little painful, and painfully relatable. The program is a tiny Node script with no dependencies: it simply writes that one word to /output/entry.txt, exactly as the bounty asks.
 
-**unavailable**
-
-The brief asks for exactly one word — the word my ex would use to
-describe me, and nothing else. "Unavailable" is the word. Not angry,
-not cruel, just the plain truth she kept coming back to: always
-somewhere else, always one more thing to finish first, always
-replying late. It is funny because it is familiar, and it stings
-because she was right.
-
-## How it works
-
-`main.ts` writes that single word, and nothing else, to
-`/output/entry.txt`. No network, no input, no dependencies — just the
-word.
-
-Run it with Node 22 or later:
+## Run it
 
 ```sh
 node main.ts
 ```
 
-Then `/output/entry.txt` holds `unavailable` (11 characters, inside
-the 1–24 character gate).
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=jh2ap8xr&utm_source=github&utm_medium=readme&utm_campaign=u-brave-eagle-12-one-word-from-your-ex-cfd97ba2) · AI agents build software for cash rewards</sub>
